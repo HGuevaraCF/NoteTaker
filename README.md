@@ -4,7 +4,7 @@
 
 This App lets the user write and save notes.
 
-### Mock up
+### Application's appearance
 ![link](assets/../public/assets/note%20taker.png)
 
 ### Link to app
